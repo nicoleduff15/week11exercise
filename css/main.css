@@ -1,0 +1,9 @@
+/* #7 */
+img {
+  transition: 0.3s ease;
+}
+
+/* #8 */
+.fade {
+  opacity: 0;
+}
